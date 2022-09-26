@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="80 "
+   width="80"
    height="110"
    viewBox="0 0 642.88897 586.75948"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="avalon.svg">
+   sodipodi:docname="avalonlogo.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="2665.8391"
-     inkscape:cy="793.53107"
+     inkscape:zoom="0.18517359"
+     inkscape:cx="599.62653"
+     inkscape:cy="1443.3943"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,46 +67,46 @@
      id="layer1"
      transform="translate(515.80062,529.77069)">
     <path
-       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.26458332"
-       d="m -515.80062,-354.75455 v 79.375 h 92.60415 v 79.37499 h 79.375 v -79.37499 h 92.60418 v -79.375 z"
+       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.25712773"
+       d="m -480.07963,-354.75455 v 79.375 h 87.45876 v 79.37499 h 74.96467 v -79.37499 h 87.45879 v -79.375 z"
        id="rect893"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.26458332"
-       d="m -138.99169,-353.25784 v 79.375 h 92.60416 v 79.37499 h 79.375005 v -79.37499 h 92.604185 v -79.375 z"
+       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.25712773"
+       d="m -124.20745,-354.84535 v 79.375 h 87.458768 v 79.37499 h 74.964674 v -79.37499 h 87.458798 v -79.375 z"
        id="rect893-3" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.26458332"
-       d="m -325.78975,-269.39271 v 79.375 h 92.60416 v 79.375 h 79.375 v -79.375 h 92.604171 v -79.375 z"
+       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.25712773"
+       d="m -300.62638,-271.63773 v 79.375 h 87.45877 v 79.375 h 74.96467 v -79.375 h 87.458786 v -79.375 z"
        id="rect893-6" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.26458332"
-       d="m -137.49498,-185.57695 v 79.375 h 92.604173 v 79.374997 h 79.375 v -79.374997 h 92.604167 v -79.375 z"
+       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.25712773"
+       d="m -122.79391,-185.57695 v 79.375 h 87.458788 v 79.374997 h 74.964669 v -79.374997 h 87.458783 v -79.375 z"
        id="rect893-7" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.26458332"
-       d="m -514.30391,-185.57696 v 79.37501 h 92.60416 v 79.374997 h 79.375 v -79.374997 h 92.60417 v -79.37501 z"
+       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.25712773"
+       d="m -478.66609,-185.57696 v 79.37501 h 87.45878 v 79.374997 h 74.96467 v -79.374997 h 87.45878 v -79.37501 z"
        id="rect893-5" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.26458332"
-       d="m -324.29305,-101.76123 v 79.374998 h 92.60418 v 79.375 h 79.375 v -79.375 h 92.604168 v -79.374998 z"
+       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.25712773"
+       d="m -299.21284,-101.76123 v 79.374998 h 87.45879 v 79.375 h 74.96467 v -79.375 h 87.458781 v -79.374998 z"
        id="rect893-35" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.26458332"
-       d="m -325.78975,-441.51425 v 79.375 h 92.60417 v 79.375 h 79.375 v -79.375 h 92.604165 v -79.375 z"
+       style="opacity:1;fill:#ed1a3b;fill-opacity:1;stroke-width:0.25712773"
+       d="m -302.14354,-441.51425 v 79.375 h 87.45878 v 79.375 h 74.96467 v -79.375 h 87.458785 v -79.375 z"
        id="rect893-62" />
     <rect
-       style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0.26458332"
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0.25712773"
        id="rect950"
-       width="264.58334"
+       width="249.88223"
        height="79.375"
-       x="-234.87701"
+       x="-214.76505"
        y="-529.77069" />
   </g>
 </svg>
